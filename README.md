@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @dirkzhang0104, welcome to my page!
+![](https://media.giphy.com/media/ypqHf6pQ5kQEg/giphy.gif)
 - 👋 Hello world, this is Dirk Zhang, I am a Full-Stack Software Engineer and a huge dog lover! I am passionate about all technologies and coding, an active and quick learner with a strong ability of logical thinking, and professional background in legal & insurance practice
 - 👀 I’m actively seeking full-time software engineer positions
 - 📫 dirkzhang0104@live.com / dirkzhang0104@gmail.com
