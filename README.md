@@ -21,7 +21,7 @@ __``` Tools, Testing, Development: ```__ &nbsp;
   <img height="20" src="https://iconape.com/wp-content/files/xf/83668/svg/npm-2.svg"> NPM ||
   <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"> Git ||
   <img height="20" src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png"> Babel ||
-  <img height="20" src="https://cdn.iconscout.com/icon/free/png-512/webpack-1-1174980.png"> Webpack ||
+  <img height="20" src="https://cdn.iconscout.com/icon/free/png-512/webpack-1-1174980.png"> Webpack
 
 <!---
 dirkzhang0104/dirkzhang0104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
